@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-  <a src="https://discord.com/users/602977635873718282">
-    <img align="center" src="https://lanyard.cnrad.dev/api/602977635873718282"/>
+  <a src="https://discord.com/users/201796217292718080">
+    <img align="center" src="https://lanyard.cnrad.dev/api/201796217292718080"/>
   </a> 
 </p>
